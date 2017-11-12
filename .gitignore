@@ -1,2 +1,4 @@
 3p_*
+*.ipynb_checkpoints*
+*checkpoints*
 download_*
