@@ -2,4 +2,5 @@
 *.ipynb_checkpoints*
 *checkpoints*
 download_*
+*DS_Store*
 .DS_Store
